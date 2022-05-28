@@ -1,4 +1,4 @@
-# Lingfield Unit Trust site
+# Lingfield United Trust site
 
 [Charity website](https://www.lingfieldunitedtrust.org/)
 
